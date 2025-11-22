@@ -1,0 +1,9 @@
+# Data Files
+itf.txt
+itf.txt.gz
+*.csv
+*.fits
+
+# System
+__pycache__/
+.DS_Store
