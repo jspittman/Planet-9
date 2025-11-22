@@ -6,6 +6,5 @@ TEL 4.0-m reflector + CCD
 NET NSC DR2 / NOIRLab Astro Data Archive
 ACK MPCReport_Alpha1
 AC2 jeff.pittman@gmail.com
-COM Serendipitous discovery in archival DECam imagery (Prop ID 2014B-0404).
-COM Single-night detection. Verified in raw FITS [c4d_181113_054246_ooi_r_v1.fits].
-     C4D1811  C2018 11 13.238030 03 39 07.23 -10 05 52.8                      22.5 r      807
+COM Serendipitous discovery in archival DECam imagery.
+     XXXXXXX  CYYYY MM DD.dddddd HH MM SS.ss ±DD MM SS.s          MM.m f      807
