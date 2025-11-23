@@ -1,5 +1,7 @@
 # 🛸 Planet Nine Sentinel: Deep Archive Mining Pipeline
 
+![Planet 9 Discovery Databases](https://github.com/jspittman/Planet-9/blob/main/images/Planet_9_Database_Image_Final.png)
+
 **Principal Investigator:** Jeffrey S. Pittman  
 **Project Status:** Active / **1 Verified Unknown Object Discovered** **Date:** November 22, 2025  
 **Target Region:** Taurus-Eridanus Resonance Zone (RA 30° to 100°)  
@@ -10,7 +12,7 @@
 
 This project performs a deep-survey data mining operation to locate Planet Nine candidates in the high-probability orbit zone predicted by Batygin & Brown (2016) and refined by Siraj/Tremaine (2025).
 
-By cross-referencing deep archival imaging from the **Dark Energy Camera (DECam)** (Mag limit \~24.5) against the **Pan-STARRS DR2** catalog (Mag limit \~22.5) and the **Minor Planet Center (MPC)** database, the pipeline filters out static stars and known asteroids to isolate "Bright Ghosts"—objects that appear in deep imaging but are missing from reference maps.
+By cross-referencing deep archival imaging from the **Dark Energy Camera (DECam)** (Mag limit ~24.5) against the **Pan-STARRS DR2** catalog (Mag limit ~22.5) and the **Minor Planet Center (MPC)** database, the pipeline filters out static stars and known asteroids to isolate "Bright Ghosts"—objects that appear in deep imaging but are missing from reference maps.
 
 ## 🚨 DISCOVERY REPORT: Object Alpha-1 (The "Alpha Ghost")
 
@@ -19,10 +21,10 @@ By cross-referencing deep archival imaging from the **Dark Energy Camera (DECam)
 
 This object was detected by the pipeline and subsequently verified by manual forensic analysis of raw FITS imagery from the Cerro Tololo Inter-American Observatory (CTIO).
 
-  * **Detection Date:** 2018-11-13 (MJD 58435.238)
+  * **Discovery Date:** 2018-11-13 (MJD 58435.238)
   * **Time:** 05:42:46 UTC
   * **Coordinates:** RA `54.780134` | Dec `-10.098003`
-  * **Apparent Magnitude:** \~22.5 (r-band)
+  * **Apparent Magnitude:** ~22.5 (r-band)
   * **Verification Data:**
       * **Source:** NOIRLab Science Archive
       * **Instrument:** DECam (Blanco 4m Telescope)
