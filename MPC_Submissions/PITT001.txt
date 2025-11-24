@@ -1,0 +1,14 @@
+COD W84
+CON J. S. Pittman [jeff.pittman@gmail.com]
+OBS J. S. Pittman
+MEA J. S. Pittman
+TEL 4.0-m reflector + CCD
+NET NSC DR2 / NOIRLab Astro Data Archive
+BND r
+ACK MPCReport_Beta_Discovery
+AC2 jeff.pittman@gmail.com
+COM Serendipitous discovery in archival DECam imagery (NSC DR2).
+COM Object PITT001 - previously unknown moving object.
+COM Motion rate: 0.468 arcsec/hour, 11.2 arcsec/day.
+     PITT001* C2018 09 08.35874 03 51 11.27 -12 01 19.8          23.1 r      W84
+     PITT001  C2018 11 10.22929 03 51 26.48 -12 12 29.1          23.7 r      W84
